@@ -4,7 +4,7 @@
 
 源码网站地址：
 
-[当牛作码]: http://www.xiaoniucr.com/project.html
+[当牛作码]: (http://www.xiaoniucr.com/project.html)
 
 ## 本站承诺：
 
@@ -31,7 +31,6 @@ Idea、Eclipse、MyEclipse、Vscode、PhpStorm、Pycharm
 ## 联系方式：
 
 qq=>1344127185或者vx=>itcoderyhl
-
 
 
 
