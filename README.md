@@ -30,4 +30,4 @@ Idea、Eclipse、MyEclipse、Vscode、PhpStorm、Pycharm
 
 ## 联系方式
 
-qq=>1344127185或者vx=>itcoderyhl
+qq=>1344127185
